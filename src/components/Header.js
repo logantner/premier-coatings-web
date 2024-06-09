@@ -1,4 +1,5 @@
 import React from 'react';
+import './Header.css';
 import siteLogo from '../img/pc-logo.png';
 
 const Header = () => {

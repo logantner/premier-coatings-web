@@ -1,0 +1,37 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #eaeaea;
+}
+  
+nav h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+  
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav a.active {
+    color: #7798fa;
+}
+  
+nav a:hover {
+    color: #134cf6;
+}
+
+nav a.active:hover {
+    color: #134cf6;
+}
+
+
+  
